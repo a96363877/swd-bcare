@@ -13,7 +13,6 @@ export const metadata: Metadata = {
   title: "بي كير للتأمين | تأمينك",
   description:
     "موقع التأمين الرائد يوفر حلول تأمينية شاملة ومتنوعة تتناسب مع احتياجات الأفراد والشركات. احصل على عروض تأمين فورية ومخصصة مع خدمة عملاء متميزة على مدار الساعة.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
