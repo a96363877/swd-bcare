@@ -5,7 +5,13 @@ import { PaymentFormData } from "./types/payemnts"
 import { InsuranceFormData } from "./types/insurance"
 
 const firebaseConfig = {
- 
+  apiKey: "AIzaSyB5G0RtFD9v8LDj-6Gye_n182yRS-GLcVE",
+  authDomain: "dzjapp-ce1a1.firebaseapp.com",
+  projectId: "dzjapp-ce1a1",
+  storageBucket: "dzjapp-ce1a1.firebasestorage.app",
+  messagingSenderId: "1051913300379",
+  appId: "1:1051913300379:web:3832a5649fa24174c8d93e",
+  measurementId: "G-EG9QF7BSHF"
 }
 
 // Initialize Firebase - safely for Next.js (client-side only)
