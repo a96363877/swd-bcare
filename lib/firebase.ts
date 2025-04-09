@@ -5,7 +5,7 @@ import { PaymentFormData } from "./types/payemnts"
 import { InsuranceFormData } from "./types/insurance"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB5G0RtFD9v8LDj-6Gye_n182yRS-GLcVE",
+ apiKey: "AIzaSyB5G0RtFD9v8LDj-6Gye_n182yRS-GLcVE",
   authDomain: "dzjapp-ce1a1.firebaseapp.com",
   projectId: "dzjapp-ce1a1",
   storageBucket: "dzjapp-ce1a1.firebasestorage.app",
